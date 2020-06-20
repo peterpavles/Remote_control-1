@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RemoteClient", "RemoteClient.vcxproj", "{692479BA-3012-4238-BC08-8361C59488DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{692479BA-3012-4238-BC08-8361C59488DE}.Debug|x64.ActiveCfg = Debug|x64
+		{692479BA-3012-4238-BC08-8361C59488DE}.Debug|x64.Build.0 = Debug|x64
+		{692479BA-3012-4238-BC08-8361C59488DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{692479BA-3012-4238-BC08-8361C59488DE}.Debug|x86.Build.0 = Debug|Win32
+		{692479BA-3012-4238-BC08-8361C59488DE}.Release|x64.ActiveCfg = Release|x64
+		{692479BA-3012-4238-BC08-8361C59488DE}.Release|x64.Build.0 = Release|x64
+		{692479BA-3012-4238-BC08-8361C59488DE}.Release|x86.ActiveCfg = Release|Win32
+		{692479BA-3012-4238-BC08-8361C59488DE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA89152C-B602-4AF1-9064-649B35C9FF86}
+	EndGlobalSection
+EndGlobal
